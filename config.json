@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderftringify",
+        "uuid": 6997050,
+        "checksum": "4z2kx"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
